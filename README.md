@@ -1,10 +1,10 @@
-# EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
+# EX:02 EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME :KAMALI E
+ #### REGISTER NUMBER :212222110015
+ #### DEPARTMENT : CSE IOT
+ #### YEAR :3
 
  
 # Aim:
@@ -82,15 +82,16 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+## ON-Delay Timer:
+
+![image](https://github.com/user-attachments/assets/059778dd-36ed-42d8-ad3a-4512480cafe7)
 
 
 
 
+## OFF-Delay Timer:
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/862ccabf-8b4d-41bb-b800-b72aa3de8356)
 
 
 
